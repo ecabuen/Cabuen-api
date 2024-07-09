@@ -4,8 +4,8 @@ Every web request returns a *status code* that says whether it was successful or
 
 ## Common codes
 
-|Code|Description|
-|----------------|-------------------------------|-----------------------------|
+|Code|Description
+|-|-|
 |200|OK          
 |403|Forbidden            
-|404|Not found|
+|404|Not found
